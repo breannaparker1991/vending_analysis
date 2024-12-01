@@ -1,6 +1,4 @@
 # Vending Analysis BY Breanna Parker
-This project used the ARIMA model to create predictions for vending machine datasets. Pandas was used for data manipulation and cleaning. matplotlib/seaborn was used for data visualization. statsmodles and skit-learn were used for time series analysis and accuracy evaluation. This model had good accuracy and I created an analysis on the amount of product to buy per sku for a two week period. 
-
 
 Background/History: This project includes two datasets, one for the inventory, and one for the restock. This is analyzing the overall use of the vending machines and seeing how much inventory should be ordered on a week by week basis. 
 
